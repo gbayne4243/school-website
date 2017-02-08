@@ -144,8 +144,7 @@ a:active {
 
 .navbar-menu a:hover,
 .navbar-menu a:active {
-
-  color:
+  color: #ff3333;
   border-bottom: ;
   text-decoration: none;
 }
