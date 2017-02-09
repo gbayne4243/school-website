@@ -136,6 +136,10 @@ a:active {
   font-family: cursive;
 }
 
+.navbar-menu li{
+  margin-left: 15px;
+}
+
 .navbar-menu a:link,
 .navbar-menu a:visited {
   color: #000000;
