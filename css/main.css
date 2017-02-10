@@ -3,6 +3,7 @@
 body {
 margin: auto;
 background-color: #80aaff;
+font-family: 'Indie Flower', cursive;
 }
 
 header {
@@ -35,10 +36,13 @@ aside {
 
 h1 {
 font-family: 'Barrio', cursive;
+font-size: 75px;
+text-align: center;
 }
 
 h2 {
-
+font-family: 'Barrio', cursive;
+text-align: center;
 }
 
 h3 {
@@ -59,6 +63,7 @@ h6 {
 
 p {
 text-align: center;
+font-size: 30px;
 }
 
 blockquote {
