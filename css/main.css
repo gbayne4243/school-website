@@ -46,7 +46,8 @@ text-align: center;
 }
 
 h3 {
-
+  font-family: 'Barrio', cursive;
+  font-size: 40px;
 }
 
 h4 {
@@ -75,8 +76,7 @@ ol {
 }
 
 ul {
-  font-family: 'Barrio', cursive;
-  font-family: 'Caveat Brush', cursive;
+  font-family: 'Indie Flower', cursive;
   font-size: 30px;
 }
 
@@ -143,6 +143,8 @@ a:active {
 
 .navbar-menu li{
   margin-left: 15px;
+  font-family: 'Caveat Brush', cursive;
+  font-size: 30px;
 }
 
 .navbar-menu a:link,
