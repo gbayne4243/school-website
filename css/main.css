@@ -93,11 +93,12 @@ tr {
 }
 
 th {
-
+font-size: 30px;
+text-decoration: underline;
 }
 
 td {
-
+font-size: 25px;
 }
 
 
