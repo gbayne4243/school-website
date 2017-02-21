@@ -51,7 +51,9 @@ h3 {
 }
 
 h4 {
-
+  font-size: 35px;
+  font-family: 'Indie Flower', cursive;
+  color: #000000;
 }
 
 h5 {
@@ -112,11 +114,11 @@ img  {
 /*** link styles ***/
 
 a:link {
-
+text-decoration: none;
 }
 
 a:visited {
-
+color: #3425ee;
 }
 
 a:hover {
@@ -152,10 +154,12 @@ a:active {
 .navbar-menu a:visited {
   color: #000000;
   font-weight: ;
+  text-decoration: none;
 }
 
 .navbar-menu a:hover,
 .navbar-menu a:active {
   color: #ff3333;
   border-bottom: ;
+  text-decoration: none;
 }
