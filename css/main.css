@@ -52,7 +52,6 @@ h3 {
 
 h4 {
   font-size: 35px;
-  font-family: 'Indie Flower', cursive;
   color: #000000;
 }
 
@@ -65,7 +64,6 @@ h6 {
 }
 
 p {
-text-align: center;
 font-size: 30px;
 }
 
@@ -78,7 +76,6 @@ ol {
 }
 
 ul {
-  font-family: 'Indie Flower', cursive;
   font-size: 30px;
 }
 
