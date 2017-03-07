@@ -72,7 +72,8 @@ blockquote {
 }
 
 ol {
-
+  font-size: 30px;
+  text-align: center;
 }
 
 ul {
@@ -112,18 +113,19 @@ img  {
 
 a:link {
 text-decoration: none;
+color: #ff3333;
 }
 
 a:visited {
-color: #3425ee;
+color: #ff3333;
 }
 
 a:hover {
-
+color: #ff3333;
 }
 
 a:active {
-
+color: #ff3333;
 }
 
 /*==============================================================================
